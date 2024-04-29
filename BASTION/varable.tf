@@ -1,0 +1,4 @@
+variable "vmbastion" {
+    type = any
+  
+}
